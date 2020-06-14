@@ -18,7 +18,7 @@ Opencv: v4.2.0
 PIL: v7.0.0
 
 ===================================================
-Hướng dẫn sử dụng chương trình
+Hướng dẫn sử dụng
 - Bước 1: Chọn kết nối
 	+ Cách 1: Click vào button "Chọn kết nối"
 	+ Cách 2: Chức năng -> Open
