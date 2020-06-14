@@ -3,12 +3,14 @@
 "# Đồ án môn học xử lý ảnh"
 ĐỀ TÀI: TÌM HIỂU THƯ VIỆN OPENCV, NGÔN NGỮ LẬP TRÌNH PYTHON
 VIẾT ỨNG DỤNG NHẬN DIỆN LÀN ĐƯỜNG CHO XE TỰ LÁI
+
 ==================================================
 Trường Đại Học Trần Đại Nghĩa
 Lớp: 17DDS07031
 
 - SV1: Nguyễn Tiểu Phụng  - 17DDS0703132
 - SV2: Huỳnh Đức Anh Tuấn - 17DDS0703143
+
 =================================================
 
 Các thư viện hỗ trợ:
