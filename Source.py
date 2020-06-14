@@ -5,11 +5,7 @@ from tkinter import *
 from tkinter.ttk import Combobox
 from tkinter import filedialog as fd
 import PIL
-
 from PIL import Image, ImageTk, ImageEnhance
-from scipy.ndimage import filters
-
-
 from bin import model
 
 class Application(Frame):
@@ -267,10 +263,13 @@ class Application(Frame):
        filewin.mainloop()  
 
 def main():
-    window = Tk()
-    window.geometry("1400x700")
-    app = Application()
-    window.mainloop()
+    try:
+        window = Tk()
+        window.geometry("1400x700")
+        app = Application()
+        window.mainloop()
+    except:
+        pass
 
 
 if __name__ == '__main__':

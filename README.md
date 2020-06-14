@@ -7,8 +7,8 @@ VIẾT ỨNG DỤNG NHẬN DIỆN LÀN ĐƯỜNG CHO XE TỰ LÁI
 Trường Đại Học Trần Đại Nghĩa
 Lớp: 17DDS07031
 
-SV1: Nguyễn Tiểu Phụng  - 17DDS0703132
-SV2: Huỳnh Đức Anh Tuấn - 17DDS0703143
+- SV1: Nguyễn Tiểu Phụng  - 17DDS0703132
+- SV2: Huỳnh Đức Anh Tuấn - 17DDS0703143
 =================================================
 
 Các thư viện hỗ trợ:
