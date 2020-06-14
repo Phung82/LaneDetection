@@ -2,7 +2,7 @@
  - "https://github.com/Phung82/LaneDetection.git"
  - "# Đồ án môn học xử lý ảnh"
  - ĐỀ TÀI: TÌM HIỂU THƯ VIỆN OPENCV, NGÔN NGỮ LẬP TRÌNH PYTHON
- - VIẾT ỨNG DỤNG NHẬN DIỆN LÀN ĐƯỜNG CHO XE TỰ LÁI
+  VIẾT ỨNG DỤNG NHẬN DIỆN LÀN ĐƯỜNG CHO XE TỰ LÁI
 
 ==================================================
 - Trường Đại Học Trần Đại Nghĩa
@@ -20,7 +20,7 @@
   + PIL: v7.0.0
 
 ===================================================
-Hướng dẫn sử dụng
+- HƯỚNG DẪN SỬ DỤNG
 - Bước 1: Chọn kết nối
 	+ Cách 1: Click vào button "Chọn kết nối"
 	+ Cách 2: Chức năng -> Open
