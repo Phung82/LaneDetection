@@ -20,6 +20,18 @@
   + PIL: v7.0.0
 
 ===================================================
+<h3>Tạo giao diện đồ họa</h3>
+<img   src="https://github.com/Phung82/LaneDetection/blob/master/Screenshots/Picture1.png" />
+===================================================
+<h3> Đánh giá về kết quả và đề xuất hướng phát triển</h3?
+	<img   src="https://github.com/Phung82/LaneDetection/blob/master/Screenshots/Picture3.png" />
+	</br>
+	<img   src="https://github.com/Phung82/LaneDetection/blob/master/Screenshots/Picture4.png" />
+	</br>
+	<img   src="https://github.com/Phung82/LaneDetection/blob/master/Screenshots/Picture5.png" />
+===================================================
+
+===================================================
 - HƯỚNG DẪN SỬ DỤNG
 - Bước 1: Chọn kết nối
 	+ Cách 1: Click vào button "Chọn kết nối"
@@ -37,3 +49,7 @@
 - Đóng ứng dụng:
 	+ Click Button "Thoát"
 	+ Chức năng -> Exit
+<img   src="https://github.com/Phung82/LaneDetection/blob/master/Screenshots/Picture2.png" />
+
+===================================================
+
