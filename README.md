@@ -52,4 +52,11 @@
 <img   src="https://github.com/Phung82/LaneDetection/blob/master/Screenshots/Picture2.png" />
 
 ===================================================
+<h3>TÀI LIỆU THAM KHẢO </h3>
+1) Giáo trình: Xử lý ảnh - PGS.TS Nguyễn Quang Hoan
+2) Giáo trình: OpenCV Computer Vision Projects with Python v2016
+3) Giáo trình: Xử lý ảnh - Hoàng Văn Hiệp năm 2011
+4) Sách điện tử: https://opencv-python-tutroals.readthedocs.io/
+5) Bài báo khoa học: A Precise Lane Detection Algorithm Based on Top View Image
+Transformation and Least-Square Approaches (dx.doi.org/10.1155/2016/4058093) 
 
